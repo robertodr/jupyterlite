@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.062981Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.447560Z",
+      "mimetype": null,
+      "name": "slurm-277962.out",
+      "path": "parallel_mw/slurm-277962.out",
+      "size": 1307945,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.046982Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.427560Z",
+      "mimetype": null,
+      "name": "slurm-274503.out",
+      "path": "parallel_mw/slurm-274503.out",
+      "size": 496652,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.038982Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.423560Z",
+      "mimetype": null,
+      "name": "plots.ipynb",
+      "path": "parallel_mw/plots.ipynb",
+      "size": 3929092,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.054981Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.439560Z",
+      "mimetype": null,
+      "name": "slurm-274850.out",
+      "path": "parallel_mw/slurm-274850.out",
+      "size": 218825,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.050982Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.427560Z",
+      "mimetype": null,
+      "name": "slurm-274557.out",
+      "path": "parallel_mw/slurm-274557.out",
+      "size": 246605,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.054981Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.435560Z",
+      "mimetype": null,
+      "name": "slurm-274610.out",
+      "path": "parallel_mw/slurm-274610.out",
+      "size": 895300,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.050982Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.431560Z",
+      "mimetype": null,
+      "name": "slurm-274579.out",
+      "path": "parallel_mw/slurm-274579.out",
+      "size": 681351,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.066981Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.455559Z",
+      "mimetype": null,
+      "name": "slurm-278696.out",
+      "path": "parallel_mw/slurm-278696.out",
+      "size": 1122470,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.058981Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.443560Z",
+      "mimetype": null,
+      "name": "slurm-277894.out",
+      "path": "parallel_mw/slurm-277894.out",
+      "size": 1301716,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-06T11:47:51.050982Z",
+      "format": null,
+      "last_modified": "2022-07-06T11:46:43.431560Z",
+      "mimetype": null,
+      "name": "slurm-274563.out",
+      "path": "parallel_mw/slurm-274563.out",
+      "size": 311137,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-06T11:47:51.066981Z",
+  "format": "json",
+  "last_modified": "2022-07-06T11:47:51.066981Z",
+  "mimetype": null,
+  "name": "parallel_mw",
+  "path": "parallel_mw",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
